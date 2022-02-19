@@ -10,5 +10,5 @@ Step 3: Without refreshing the page, the data given by the Giphy API URL can be 
 
 Step 4: Finally a function processes the response sent by the Giphy Server and converts it into JSON object, url of the images are accessed from this object and displayed on the same page inside a container. 
 
-![Alt text]( /assets/image1.png?raw=true "Giphy_Engine")
+![Alt text](/Gargi's_Giphy/assets/image1.png?raw=true "Giphy_Engine")
 
