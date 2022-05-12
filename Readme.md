@@ -21,6 +21,6 @@ Technologies used :- HTML, CSS, JavaScript.
 
 # Future Scope :- 
 
-1.Make a separate home page for trending GIFS.
+1.Make a separate page for trending GIFS.
 
 2.Make a separate page for generating random GIFS.
